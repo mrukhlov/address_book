@@ -1,0 +1,28 @@
+#fbody {
+    color: #404040;
+}
+
+#query_form {
+    margin-top: 10px;
+}
+
+#table {
+    margin-top: 10px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width: 150px;
+}
+
+#buttons {
+    width: auto;
+    border: none;
+}
